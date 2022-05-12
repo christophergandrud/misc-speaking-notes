@@ -1,2 +1,3 @@
 # misc-speaking-notes
-Repository for sharing speaking notes from various talk I've given
+
+This is a repository for sharing speaking notes from various public talks I've given (starting from 2022).
